@@ -1,0 +1,41 @@
+Project 1 - Plan
+
+Gym Website
+
+Business Goal = Increase popularity to gym and increase amount of members
+
+CTA = Register for the gym. Showcase the gyms area
+
+Users = Members who want to get in shape, or start at a gym and learn what to do
+
+Users Needs = information about gyms whereabouts, how to start, opening times
+
+My goal is to create a website for a "New Gym" that allows members to easily apply for a membership to the gym.
+
+CTA, i plan on making a registration form that shows the monthly cost of a membership for you.
+
+User information 
+
+
+Main business goals = Attract new members, welcome back returning members. Provide members with an location to our gym.
+Provide members with a list of what machines we have and perhaps how to use them "if i find out how". 
+
+CTA = a site that shows informaion about the gym, a registration form and of course a home page.
+
+Users = gym goers who might want to start for the first time or switch to a new gym.
+
+primary users need to know about the pricing. location. machinery. How to contact us. opening times
+
+Grid Structure
+
+Navbar
+
+Header (hero image, information about business) Form to apply for gym
+
+Section 1 (Service)
+
+Section 2 (Opening times and location)
+
+Footer (Social media)
+
+
