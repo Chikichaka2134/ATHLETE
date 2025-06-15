@@ -31,7 +31,7 @@ p {
     border: 2px solid var(--primary-color);
 }
 
-/* Grid Visualisation */
+/* Grid Visualisation 
 
 .container .row {
     border: 2px solid black;
@@ -40,4 +40,4 @@ p {
 .col-12 {
     border: 2px solid white;
     background-color: lightgray;
-}
+}*/
