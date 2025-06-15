@@ -18,7 +18,11 @@ b3b2ae
     --secondary-color: #b59063; /* Light Brown  */
     --sub-color: #b3b2ae; /* Light Grey */
 }
+.check {
 
+    border: 1px solid black;
+    height: 33%;
+}
 /* Global Styles */
 
 body {
@@ -59,11 +63,25 @@ p {
 /* Header */
 
 #header #header-image {
-    align-items: center;
     max-width: 100%;
-    height: auto;
+    height: 100%;
 }
 
+#header #opening-times {
+    background-color: var(--primary-color);
+    height: 100%;
+}
+
+#opening-times h1 {
+    color: var(--secondary-color);
+    text-align: center;
+}
+#opening-times p {
+    color: var(--sub-color);
+}
+#opening-times li {
+    background-color: var(--primary-color);
+}
 
 /* Grid Visualisation 
 
