@@ -3,6 +3,8 @@
 cfe1f6
 807a76
 adadaa
+3d4040
+b3b2ae
 
 */
 /* Google Fonts Link */
@@ -13,7 +15,8 @@ adadaa
     --primary-font: "Bebas Neue", sans-serif;
     --secondary-font: "Oswald", sans-serif;
     --primary-color: #262828; /* Dark Grey */
-    --secondary-color: #v; /* Light Blue */
+    --secondary-color: #b59063; /* Light Brown  */
+    --sub-color: #b3b2ae; /* Light Grey */
 }
 
 /* Global Styles */
@@ -28,8 +31,39 @@ h1, h2, h3 {
 }
 
 p {
-    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    font-family: var(--secondary-font);
+    font-size: 1.3rem;
 }
+
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Navbar */
+
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 120px;
+}
+
+#navbar .nav-text {
+    font-size: 20px;
+    font-family: var(--primary-font);
+    color: var(--secondary-color);
+}
+/* Header */
+
+#header #header-image {
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+}
+
 
 /* Grid Visualisation 
 
