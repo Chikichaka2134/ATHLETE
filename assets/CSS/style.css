@@ -74,7 +74,6 @@ p {
 /* Service Section */
 
 #service {
-    background-color: var(--primary-color);
     border-radius: 10px;
 }
 
@@ -82,20 +81,16 @@ p {
     padding: 10px;
 }
 
-#service #service-card {
-    
-}
-
-#service #opening-times {
+#opening-times {
     background-color: var(--primary-color);
     text-align: center;
 
 }
-#service #opening-times h1 {
+#opening-times h1 {
     color: var(--secondary-color);
     font-family: var(--primary-font);
 }
-#service #opening-times p {
+#opening-times p {
     color: var(--sub-color);
 }
 #opening-times li {
@@ -107,6 +102,14 @@ p {
     text-align: center;
 }
 
+#service .service-card {
+    height: 100%;
+    
+}
+
+#service .service-text {
+    color: var(--primary-color);
+}
 /* Grid Visualisation 
 
 .container .row {
