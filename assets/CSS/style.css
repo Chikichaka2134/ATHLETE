@@ -110,6 +110,12 @@ p {
 #service .service-text {
     color: var(--primary-color);
 }
+
+/* footer */
+
+footer ul {
+    list-style: none;
+}
 /* Grid Visualisation 
 
 .container .row {
