@@ -112,9 +112,32 @@ p {
 }
 
 /* footer */
+#contact {
+    background-color: var(--primary-color);
+}
 
-footer ul {
-    list-style: none;
+#contact h2 {
+    color: var(--secondary-color);
+}
+
+.footer-info {
+    color: var(--sub-color);
+}
+
+#contact i {
+    color: var(--sub-color);
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
+
+#contact .social-media {
+    font-size: 2rem;
+    margin-top: 50%;
+}
+
+#contact li{
+    display: inline-block;
+    margin-left: 20px;
 }
 /* Grid Visualisation 
 
