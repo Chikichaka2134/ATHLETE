@@ -113,14 +113,14 @@ p {
 
 /* subsriptions */
 #monthly-sub .card,
-#yearly-sub .card {
+#activity-sub .card {
     border: none;
 }
-#monthly-sub, #yearly-sub {
+#monthly-sub, #activity-sub {
     text-align: center;
 }
 
-#monthly-sub p {
+#monthly-sub p, #activity-sub p {
     padding: 1rem;
 
 }
