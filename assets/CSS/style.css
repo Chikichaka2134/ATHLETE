@@ -116,12 +116,44 @@ p {
 #activity-sub .card {
     border: none;
 }
+
+.sub-title {
+    font-size: 2.5rem;
+}
 #monthly-sub, #activity-sub {
     text-align: center;
 }
 
 #monthly-sub p, #activity-sub p {
     padding: 1rem;
+
+}
+
+#activity-img {
+    display: block;
+    max-width: 80%;
+    align-items: center;
+    margin: auto;
+    padding: 1rem;
+}
+
+/* About Us */
+#about-year {
+    font-size: 4rem;
+    font-family: var(--primary-font);
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+#about-title {
+    text-align: center;
+}
+#about-p {
+    padding: 1rem;
+    color: var(--primary-color);
+    font-family: var(--secondary-font);
+    font-size: 1.2rem;
 
 }
 /* footer */
