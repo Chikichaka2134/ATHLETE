@@ -111,6 +111,19 @@ p {
     color: var(--primary-color);
 }
 
+/* subsriptions */
+#monthly-sub .card,
+#yearly-sub .card {
+    border: none;
+}
+#monthly-sub, #yearly-sub {
+    text-align: center;
+}
+
+#monthly-sub p {
+    padding: 1rem;
+
+}
 /* footer */
 #contact {
     background-color: var(--primary-color);
