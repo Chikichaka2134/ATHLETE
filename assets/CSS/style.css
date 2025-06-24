@@ -27,6 +27,7 @@ b3b2ae
 
 body {
     font-family: var(--secondary-font);
+    padding-top: 50px;
 }
 
 h1, h2, h3 {
