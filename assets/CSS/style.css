@@ -149,6 +149,12 @@ p {
     padding: 1rem;
 }
 
+/* CART */
+
+.cart-form {
+    border: 1px solid var(--primary-color);
+}
+
 /* About Us */
 #about-year {
     font-size: 4rem;
